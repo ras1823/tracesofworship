@@ -4,13 +4,13 @@
        banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
        layout="vertical">
 
-## Introduction
+### Introduction
 
 From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition. Through acts of devotion, worshippers seek deeper connection with the deities, figures or objects they revere. Textual records, works of art and ceremonial artefacts have become vital material evidence to preserve and transmit the ways in which worship has been expressed, remembered and renewed over time.
 <br><br>
-This online display brings together a selection of artworks, photographs and textual materials from the collections of the Royal Asiatic Society to explore the idea of worship across Asian cultures. Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
+This online display brings together a selection of artworks, photographs and textual materials from the collections of the Royal Asiatic Society to explore the idea of worship across Asian cultures. Here, ‘worship’ is used in a broad sense to encompass practices of devotion, veneration, prayer, pilgrimage and ritual observance, while recognising that these categories do not correspond exactly across the traditions represented. Although these materials are now preserved within a research collection rather than a devotional setting, some continue to possess sacred or devotional significance for the communities and traditions from which they come.
 <br><br>
-Here, ‘worship’ is used in a broad sense to encompass practices of devotion, veneration, prayer, pilgrimage and ritual observance, while recognising that these categories do not correspond exactly across the traditions represented. Although these materials are now preserved within a research collection rather than a devotional setting, some continue to possess sacred or devotional significance for the communities and traditions from which they come.
+Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
 
 ## Sword Worship
 
@@ -44,7 +44,7 @@ This late-19th-century photograph shows a Buddhist novice kneeling in prayer bes
 
 ## Accumulating Virtue
 
-‘Poems of Three Saints’ is a collection of Taoist works that encourage the cultivation of virtue, including most notably Treatise on the Response of the Tao. 
+‘Poems of Three Saints’ is a collection of Taoist works that encourage the cultivation of virtue, including most notably _Treatise on the Response of the Tao_ dating from the 12th century. 
 <br><br>
 This illustrated printed booklet presents the scripture text alongside illustrations that guide worshippers in their practice. The bold characters following the title page proclaim that the text may be recited by men or women, day or night, so that ‘all will go smoothly’. As encouragement, the booklet includes a testimonial from an individual who reports recovering from a severe illness through devoted recitation of the scripture.
 
@@ -126,4 +126,6 @@ This Persian manuscript of _Subḥat al Abrār_ (‘The Rosary of the Pious’),
        label="Inscriptions on the first folio of Subhat al-Abrar"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
 
-## 
+### To See More...
+
+We hope you enjoyed viewing this online display. If you are interested to see more of our collections online, our digitised manuscripts, artworks, photographs and archives are freely accessible in our [Digital Library](https://royalasiaticcollections.org/).
