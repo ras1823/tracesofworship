@@ -22,6 +22,7 @@ In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780
 
 <param ve-image 
        label="Maharana Bhim Singh performing the worship of the sword, c. 1820 (Artwork 070.002)" 
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/1.jpg">
        
 ### Vishvakarma
@@ -32,6 +33,7 @@ Today, Vishvakarma continues to be honoured across craft communities in India, i
 
 <param ve-image 
        label="Visvakarma worshipped by artisans, c. 1800 (Artwork 070.002)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/2.jpeg">
 
 ### Buddhism
@@ -42,6 +44,7 @@ This late-19th-century photograph shows a Buddhist novice kneeling in prayer bes
 
 <param ve-image 
        label="Buddhist novice praying at the Sacred Bo Tree, Anuradhapura, 1890s (Photo.47/(003))"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/3.jpg">
 
 ### Taoist
@@ -52,10 +55,12 @@ This illustrated printed booklet presents the scripture text alongside illustrat
 
 <param ve-image 
        label="Poems of Three Saints, 1917 (186K)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4a.jpeg">
 
 <param ve-image 
        label="Poems of Three Saints, 1917 (186K)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4b.jpeg">
 
 ### Pilgrimage scroll
@@ -64,6 +69,7 @@ Pilgrimage scrolls commemorated journeys to the sacred sites of Islam. This exam
 
 <param ve-image 
        label="Pilgrimage scroll, 19th century" 
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/5.jpg">
 
 ### Pilgrimage 
@@ -72,6 +78,7 @@ Pilgrimage to Lhasa, the home of many important Tibetan Buddhist sites, is regar
 
 <param ve-image 
        label="Prostrating pilgrim on his way to Lhasa, 1938 (Photo.86/2(068))"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/6.jpg">
 
 ### Buddhism
@@ -82,6 +89,7 @@ This lightly coloured woodblock printed map presents a panoramic view of the mou
 
 <param ve-image 
        label="Map of Mount Putuo, c. 1875 (Artwork 104.02)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/7.jpeg">
 
 ### Assyrian seal
@@ -90,6 +98,7 @@ Scenes and symbols of worship are among the most common motifs found on Babyloni
 
 <param ve-image 
        label="Plaster casts of an Assyrian seal, early 20th century (RAS JOUR/17/2)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/8.jpeg">
        
 ### Zoroastrian 
@@ -98,6 +107,7 @@ In Zoroastrian worship, Atash Kadeh, or fire temple, is a sacred site where a fl
 
 <param ve-image 
        label="Rock-carved fire altar, Atash-kadeh, Tang-i-karam, 1933–34 (Photo.40/5(018))"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/9.jpg">
 
 ### Benzaiten
@@ -106,6 +116,7 @@ Benzaiten, the Buddhist-Shinto goddess associated with speech, water, wealth and
 
 <param ve-image 
        label="Crowds attending the image-showing of the goddess Benzaiten at Yenoshima, 1856 (Artwork 077.001)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG">
 
 ### Ancestor
@@ -114,6 +125,7 @@ Ancestor worship is a longstanding practice where living individuals honour the 
 
 <param ve-image 
        label="Ancestral worship, late 19th century (Glass Slide.01/(074))"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/11.jpg">
 
 ### Manuscript
@@ -122,8 +134,10 @@ This Persian manuscript of Subḥat al Abrār (‘The Rosary of the Pious’), a
 
 <param ve-image 
        label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12a.jpeg">
 
 <param ve-image 
        label="Inscriptions on the first folio of Subhat al-Abrar"
+       license="© Royal Asiatic Society of Great Britain and Ireland"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
