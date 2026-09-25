@@ -4,7 +4,7 @@
        banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
        layout="vertical">
 
-### Introduction
+# Introduction
 
 From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition. Through acts of devotion, worshippers seek deeper connection with the deities, figures or objects they revere. Textual records, works of art and ceremonial artefacts have become vital material evidence to preserve and transmit the ways in which worship has been expressed, remembered and renewed over time.
 <br><br>
@@ -126,6 +126,6 @@ This Persian manuscript of _Subḥat al Abrār_ (‘The Rosary of the Pious’),
        label="Inscriptions on the first folio of Subhat al-Abrar"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
 
-### To See More...
+# To See More...
 
-We hope you enjoyed viewing this online display. If you are interested to see more of our collections online, our digitised manuscripts, artworks, photographs and archives are freely accessible in our [Digital Library](https://royalasiaticcollections.org/).
+We hope you enjoyed viewing this online display. If you are interested in seeing more of our collections, our digitised manuscripts, artworks, photographs and archives are freely accessible in our [Digital Library](https://royalasiaticcollections.org/).
