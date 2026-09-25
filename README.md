@@ -19,7 +19,7 @@ In Rajput traditions, the sword is believed to embody divine knowledge and power
 In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780300270525/annals-and-antiquities-of-rajasthan/) (1829–32), James Tod (1782–1835) describes the Rajput practice of venerating arms by swearing ‘by the steel’ and prostrating before their swords and other weapons.
 
 <param ve-image 
-       label="Maharana Bhim Singh performing the worship of the sword, c. 1820 (Artwork 070.002)" 
+       label="Maharana Bhim Singh performing the worship of the sword, c. 1820 (Artwork 070.002) <br> © The Royal Asiatic Society of Great Britain and Ireland" 
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/1.jpg">
        
 ## The Architect of the Universe
