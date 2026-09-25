@@ -26,7 +26,7 @@ In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780
 
 In Hinduism, deities are also worshipped for their mastery of craft and skill. Vishvakarma, the Hindu god considered as the architect of the universe, is shown here sitting on a throne, holding an array of tools in his ten arms. He is worshipped by artisans positioned on either side, each accompanied by the instruments of their trade. 
 <br><br>
-Today, Vishvakarma continues to be honoured across craft communities in India, including carpenters, blacksmiths, stonemasons, bronzesmiths, goldsmiths and many others.
+Today, Vishvakarma continues to be honoured across craft communities in South Asia, including carpenters, blacksmiths, stonemasons, bronzesmiths, goldsmiths and many others.
 
 <param ve-image 
        label="Visvakarma worshipped by artisans, c. 1800 (Artwork 070.002)"
