@@ -7,17 +7,17 @@
 ## Traces of Worship
 
 From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition: cows are revered in many Hindu traditions as symbols of life and motherhood, while in Japanese Shinto tradition, Amaterasu is revered as the sun goddess. 
-<br>
+<br><br>
 Through acts of devotion, worshippers seek deeper connection with the deities, figures or objects they revere. Textual records, works of art and ceremonial artefacts have become vital material evidence to preserve and transmit the ways in which worship has been expressed, remembered and renewed over time.
 
 This online display brings together a selection of artworks, photographs and textual materials from the collections of the Royal Asiatic Society to explore the idea of worship across Asian cultures. Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
-
+<br><br>
 Here, ‘worship’ is used in a broad sense to encompass practices of devotion, veneration, prayer, pilgrimage and ritual observance, while recognising that these categories do not correspond exactly across the traditions represented. Although these materials are now preserved within a research collection rather than a devotional setting, some continue to possess sacred or devotional significance for the communities and traditions from which they come.
 
 ### Sword
 
 In Rajput traditions, the sword is believed to embody divine knowledge and power, and is closely associated with several formidable Hindu deities. This miniature depicts Maharana Bhim Singh, ruler of Mewar (r. 1778–1828), on the centre left performing the rite of sword worship, in which a sword is installed on an altar for veneration. The rite marks the beginning of Navaratri, a festival honouring Durga, the Hindu goddess. 
-
+<br><br>
 In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780300270525/annals-and-antiquities-of-rajasthan/) (1829–32), James Tod (1782–1835) describes the Rajput practice of venerating arms by swearing ‘by the steel’ and prostrating before their swords and other weapons.
 
 <param ve-image 
@@ -26,16 +26,18 @@ In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780
        
 ### Vishvakarma
 
-In Hinduism, deities are also worshipped for their mastery of craft and skill. Vishvakarma, the Hindu god considered as the architect of the universe, is shown here sitting on a throne, holding an array of tools in his ten arms. He is worshipped by artisans positioned on either side, each accompanied by the instruments of their trade. Today, Vishvakarma continues to be honoured across craft communities in India, including carpenters, blacksmiths, stonemasons, bronzesmiths, goldsmiths and many others.
+In Hinduism, deities are also worshipped for their mastery of craft and skill. Vishvakarma, the Hindu god considered as the architect of the universe, is shown here sitting on a throne, holding an array of tools in his ten arms. He is worshipped by artisans positioned on either side, each accompanied by the instruments of their trade. 
+<br><br>
+Today, Vishvakarma continues to be honoured across craft communities in India, including carpenters, blacksmiths, stonemasons, bronzesmiths, goldsmiths and many others.
 
 <param ve-image 
        label="Visvakarma worshipped by artisans, c. 1800 (Artwork 070.002)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/2.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/2.jpeg">
 
 ### Buddhism
 
 According to Buddhist tradition, the Buddha attained enlightenment while meditating beneath a bodhi tree. The tree is revered as a symbol of peace, wisdom and awakening, serving as a site for prayers, teachings and other acts of devotion. 
-
+<br><br>
 This late-19th-century photograph shows a Buddhist novice kneeling in prayer beside a bodhi tree in Anuradhapura, Sri Lanka. The tree is believed to have grown from a branch of the original bodhi tree at the Mahabodhi Temple in Bihar, India, where the Buddha is said to have achieved enlightenment.
 
 <param ve-image 
@@ -50,11 +52,11 @@ This illustrated printed booklet presents the scripture text alongside illustrat
 
 <param ve-image 
        label="Poems of Three Saints, 1917 (186K)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4a.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4a.jpeg">
 
 <param ve-image 
        label="Poems of Three Saints, 1917 (186K)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4b.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4b.jpeg">
 
 ### Pilgrimage scroll
 
@@ -75,12 +77,12 @@ Pilgrimage to Lhasa, the home of many important Tibetan Buddhist sites, is regar
 ### Buddhism
 
 Mount Putuo, located on an island off China’s eastern coast, is known as one of the four sacred mountains of Chinese Buddhism and has been a major pilgrimage destination since the Tang dynasty. It is considered the sacred home of the Guanyin Bodhisattva. 
-
+<br><br>
 This lightly coloured woodblock printed map presents a panoramic view of the mountain, showing its temples, monasteries and the routes that connect them. Such maps were likely produced as souvenirs for pilgrims, offering both guidance and a lasting reminder of their journey.
 
 <param ve-image 
        label="Map of Mount Putuo, c. 1875 (Artwork 104.02)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/7.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/7.jpeg">
 
 ### Assyrian seal
 
@@ -88,7 +90,7 @@ Scenes and symbols of worship are among the most common motifs found on Babyloni
 
 <param ve-image 
        label="Plaster casts of an Assyrian seal, early 20th century (RAS JOUR/17/2)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/8.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/8.jpeg">
        
 ### Zoroastrian 
 
@@ -120,8 +122,8 @@ This Persian manuscript of Subḥat al Abrār (‘The Rosary of the Pious’), a
 
 <param ve-image 
        label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/11a.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12a.jpeg">
 
 <param ve-image 
        label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/11b.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
