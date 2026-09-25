@@ -116,7 +116,7 @@ Ancestor worship is a longstanding practice where living individuals honour the 
 
 ## A Reward for Devotion
 
-This Persian manuscript of Subḥat al Abrār (‘The Rosary of the Pious’), a long poem by the master poet Jāmī, features a lacquered illustrated binding depicting a scene of book presentation to a princely figure while musicians play and dance. The decoration resonates with its recorded provenance: an inscription on the flyleaf notes that the manuscript was given to a Sadr al Dīn Muḥammad as a reward for completing the fast during Ramadan in 1010 AH/AD 1602. Throughout the month of Ramadan, many Muslims abstain from food and drink from dawn to dusk to express their devotion to God.
+This Persian manuscript of _Subḥat al Abrār_ (‘The Rosary of the Pious’), a long poem by the master poet Jāmī, features a lacquered illustrated binding depicting a scene of book presentation to a princely figure while musicians play and dance. The decoration resonates with its recorded provenance: an inscription on the flyleaf notes that the manuscript was given to a Sadr al Dīn Muḥammad as a reward for completing the fast during Ramadan in 1010 AH/AD 1602. Throughout the month of Ramadan, many Muslims abstain from food and drink from dawn to dusk to express their devotion to God.
 
 <param ve-image 
        label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
