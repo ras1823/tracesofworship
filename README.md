@@ -49,28 +49,28 @@ This late-19th-century photograph shows a Buddhist novice kneeling in prayer bes
 This illustrated printed booklet presents the scripture text alongside illustrations that guide worshippers in their practice. The bold characters following the title page proclaim that the text may be recited by men or women, day or night, so that ‘all will go smoothly’. As encouragement, the booklet includes a testimonial from an individual who reports recovering from a severe illness through devoted recitation of the scripture.
 
 <param ve-image 
-       label="Title page of Poems of Three Saints, 1917 (186K)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4a.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Title page of Poems of Three Saints, 1917 (186K) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4a.jpeg">
 
 <param ve-image 
-       label="Introductory message in Poems of Three Saints, 1917 (186K)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4b.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Introductory message in Poems of Three Saints, 1917 (186K) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/4b.jpeg">
 
 ## Commemorating a Journey
 
 Pilgrimage scrolls commemorated journeys to the sacred sites of Islam. This example combines places associated with the Hajj and the holy cities of Mecca and Medina with sites of particular importance in Shiʿi devotion, concluding at Karbala in Iraq. The outer walls of the Prophet’s Mosque in Medina are delineated by an inscription in Kufic script of the _shahāda_ (testimony of faith), _lā ilāha illā Allāh Muḥammad rasūl Allāh_ (There is no God but God and Muḥammad is the Messenger of God).
 
 <param ve-image 
-       label="A section from the pilgrimage scroll, 19th century" 
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/5.jpg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="A section from the pilgrimage scroll, 19th century <br> © The Royal Asiatic Society of Great Britain and Ireland" 
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/5.jpg">
 
 ## A Test of Faith 
 
 Pilgrimage to Lhasa, the home of many important Tibetan Buddhist sites, is regarded as a profound act of worship for Tibetan Buddhists. Along the journey, pilgrims perform full body prostrations, lowering their forehead, torso, hands and knees to the ground to express devotion and humility. This demanding practice tests both the pilgrim’s faith and physical endurance, often taking months or even years to complete. To protect themselves from rough roads and stones, pilgrims often wear protective gear such as aprons and hand pads, as seen in this photograph.
 
 <param ve-image 
-       label="Prostrating pilgrim on his way to Lhasa, 1938 (Photo.86/2(068))"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/6.jpg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Prostrating pilgrim on his way to Lhasa, 1938 (Photo.86/2(068)) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/6.jpg">
 
 ## The Home of the Guanyin
 
@@ -79,52 +79,52 @@ Mount Putuo, located on an island off China’s eastern coast, is known as one o
 This lightly coloured woodblock printed map presents a panoramic view of the mountain, showing its temples, monasteries and the routes that connect them. Such maps were likely produced as souvenirs for pilgrims, offering both guidance and a lasting reminder of their journey.
 
 <param ve-image 
-       label="Map of Mount Putuo, c. 1875 (Artwork 104.02)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/7.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Map of Mount Putuo, c. 1875 (Artwork 104.02) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/7.jpeg">
 
 ## Ancient Worship
 
 Scenes and symbols of worship are among the most common motifs found on Babylonian and Assyrian seals, small carved cylinders or stones serving as a mark or ownership or identification. This plaster cast of an Assyrian seal depicts a worshipper on the leftmost raising his hands before a deity who is standing on top a mythological creature combining a human head, bird’s body and scorpion’s tail. In his article [_Six Babylonian and Assyrian Seals_](https://www.jstor.org/stable/25181985) (JRAS, 1927), Assyriologist Stephen Langdon (1876–1937) discusses two known types of this composite creature and highlights other curious features of the seal’s iconography.
 
 <param ve-image 
-       label="Plaster casts of an Assyrian seal, early 20th century (RAS JOUR/17/2)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/8.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Plaster casts of an Assyrian seal, early 20th century (RAS JOUR/17/2) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/8.jpeg">
        
 ## The Sacred Fire 
 
 In Zoroastrian worship, Atash Kadeh, or fire temple, is a sacred site where a flame is placed upon an altar to symbolise divine light and wisdom. This photograph shows a rock carved fire altar in Tang i Karam, a village in Fars, Iran, documented during a survey conducted by the British-Hungarian archaeologist Sir Marc Aurel Stein (1862–1943) between November 1933 and May 1934. Stein later published his findings on this expedition in the essay [_An Archaeological Tour in the Ancient Persis_](https://www.jstor.org/stable/4241592) (Iraq, Vol. 3, No. 2, 1936).
 
 <param ve-image 
-       label="Rock-carved fire altar, Atash-kadeh, Tang-i-karam, 1933–34 (Photo.40/5(018))"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/9.jpg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Rock-carved fire altar, Atash-kadeh, Tang-i-karam, 1933–34 (Photo.40/5(018)) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/9.jpg">
 
 ## When the Hidden is Revealed
 
 Benzaiten, the Buddhist-Shinto goddess associated with speech, water, wealth and music, traces her origins to the Hindu goddess Saraswati. This colour triptych print depicts a large crowd gathered for the unveiling of Benzaiten at Enoshima Shrine, Kanagawa, Japan, a site dedicated to her worship. Sacred images of deities in Buddhist temples, such as statues, are typically kept hidden from public view and revealed only during specific ceremonies known as _kaichō_, literally ‘opening the curtain’. Such occasions remain major religious events, drawing pilgrims from across the country.
 
 <param ve-image 
-       label="Crowds attending the image-showing of the goddess Benzaiten at Yenoshima, 1856 (Artwork 077.001)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Crowds attending the image-showing of the goddess Benzaiten at Yenoshima, 1856 (Artwork 077.001) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG">
 
 ## Venerating Ancestors
 
 Ancestor worship is a longstanding practice where living individuals honour the spirits of deceased relatives. In China, many believe that venerating their ancestors brings protection and blessings for health, safety and prosperity. This late-19th-century glass slide image from China depicts an individual pouring wine onto the floor before an altar in offering to ancestors. [Further research](https://royalasiaticsociety.org/revisiting-ancestral-worship/) indicates that this scene might have a more secular setting: a re-enactment of a ceremonial ritual marking the opening of a photographic studio, where ancestral worship was performed to bestow blessings upon the new business.
 
 <param ve-image 
-       label="Ancestral worship, late 19th century (Glass Slide.01/(074))"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/11.jpg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Ancestral worship, late 19th century (Glass Slide.01/(074)) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/11.jpg">
 
 ## A Reward for Devotion
 
 This Persian manuscript of _Subḥat al Abrār_ (‘The Rosary of the Pious’), a long poem by the master poet Jāmī, features a lacquered illustrated binding depicting a scene of book presentation to a princely figure while musicians play and dance. The decoration resonates with its recorded provenance: an inscription on the flyleaf notes that the manuscript was given to a Sadr al Dīn Muḥammad as a reward for completing the fast during Ramadan in 1010 AH/AD 1602. Throughout the month of Ramadan, many Muslims abstain from food and drink from dawn to dusk to express their devotion to God.
 
 <param ve-image 
-       label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12a.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Subhat al-Abrar, late 16th century (RAS Persian 278) <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12a.jpeg">
 
 <param ve-image 
-       label="Inscriptions on the first folio of Subhat al-Abrar"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg <br> © The Royal Asiatic Society of Great Britain and Ireland">
+       label="Inscriptions on the first folio of Subhat al-Abrar <br> © The Royal Asiatic Society of Great Britain and Ireland"
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
 
 ## To See More...
 
