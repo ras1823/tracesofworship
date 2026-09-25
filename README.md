@@ -1,7 +1,8 @@
 <param ve-config 
        title="Traces of Worship"
        author="RAS Library"
-       banner="https://github.com/ras1823/essays/raw/c8bb16fcfdb13e9f789ecc1cea5a7a6489732d42/CJ2.jpg" 
+       logo="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/RAS_interim_rgb_square_reverse_signet_260219.png"
+       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
        layout="vertical">
 
 From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition: cows are revered in many Hindu traditions as symbols of life and motherhood, while in Japanese Shinto tradition, Amaterasu is revered as the sun goddess. 
