@@ -1,14 +1,11 @@
-<param ve-config 
+<ve-header 
+       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
        title="Traces of Worship"
        author="RAS Library"
-       logo="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/RAS_interim_rgb_square_reverse_signet_260219.png"
-       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
-       layout="vertical">
+       logo="https://raw.githubusercontent.com/juncture-digital/juncture/main/static/images/juncture-logo.png" url="#"></ve-header>
 
-From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition: cows are revered in many Hindu traditions as symbols of life and motherhood, while in Japanese Shinto tradition, Amaterasu is revered as the sun goddess. 
+From celestial beings to ancestral spirits, and from natural forces to animals, worship manifests in strikingly diverse forms across Asian civilisations. These practices often offer rich insight into religion, mythology and local tradition. Through acts of devotion, worshippers seek deeper connection with the deities, figures or objects they revere. Textual records, works of art and ceremonial artefacts have become vital material evidence to preserve and transmit the ways in which worship has been expressed, remembered and renewed over time.
 <br><br>
-Through acts of devotion, worshippers seek deeper connection with the deities, figures or objects they revere. Textual records, works of art and ceremonial artefacts have become vital material evidence to preserve and transmit the ways in which worship has been expressed, remembered and renewed over time.
-
 This online display brings together a selection of artworks, photographs and textual materials from the collections of the Royal Asiatic Society to explore the idea of worship across Asian cultures. Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
 <br><br>
 Here, ‘worship’ is used in a broad sense to encompass practices of devotion, veneration, prayer, pilgrimage and ritual observance, while recognising that these categories do not correspond exactly across the traditions represented. Although these materials are now preserved within a research collection rather than a devotional setting, some continue to possess sacred or devotional significance for the communities and traditions from which they come.
