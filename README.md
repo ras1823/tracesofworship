@@ -47,7 +47,7 @@ This late-19th-century photograph shows a Buddhist novice kneeling in prayer bes
 ### Taoist
 
 ‘Poems of Three Saints’ is a collection of Taoist works that encourage the cultivation of virtue, including most notably Treatise on the Response of the Tao. 
-
+<br><br>
 This illustrated printed booklet presents the scripture text alongside illustrations that guide worshippers in their practice. The bold characters following the title page proclaim that the text may be recited by men or women, day or night, so that ‘all will go smoothly’. As encouragement, the booklet includes a testimonial from an individual who reports recovering from a severe illness through devoted recitation of the scripture.
 
 <param ve-image 
@@ -106,7 +106,7 @@ Benzaiten, the Buddhist-Shinto goddess associated with speech, water, wealth and
 
 <param ve-image 
        label="Crowds attending the image-showing of the goddess Benzaiten at Yenoshima, 1856 (Artwork 077.001)"
-       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.jpg">
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG">
 
 ### Ancestor
 
@@ -125,5 +125,5 @@ This Persian manuscript of Subḥat al Abrār (‘The Rosary of the Pious’), a
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12a.jpeg">
 
 <param ve-image 
-       label="Subhat al-Abrar, late 16th century (RAS Persian 278)"
+       label="Inscriptions on the first folio of Subhat al-Abrar"
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/12b.jpeg">
