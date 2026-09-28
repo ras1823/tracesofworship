@@ -4,7 +4,13 @@
        banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG"
        layout="vertical">
 
+<param ve-container 
+       style="padding: 60px 40px; text-align: center; background-color: #f8f8f8; margin: 0; width: 100%;">
+
 Explore worship practices across Asian civilisations through artworks, photographs, and textual materials from the Royal Asiatic Society collections.
+
+</param>
+
 
 ## Introduction
 
