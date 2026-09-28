@@ -1,6 +1,7 @@
 <param ve-config 
        title="Traces of Worship"
        author="RAS Library"
+       description="test"
        banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
        layout="vertical">
 
