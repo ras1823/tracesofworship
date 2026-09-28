@@ -1,7 +1,8 @@
 <param ve-config 
        title="TRACES OF WORSHIP"
        author="RAS Library"
-       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
+       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG"
+       description="Explore worship practices across Asian civilisations through artworks, photographs, and textual materials from the Royal Asiatic Society collections."
        layout="vertical">
 
 ## Introduction
