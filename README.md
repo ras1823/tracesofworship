@@ -1,8 +1,4 @@
-<param ve-config 
-       title="Traces of Worship"
-       author="RAS Library"
-       banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" 
-       layout="vertical">
+<ve-header background="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG" label="Essay Title"></ve-header>
 
 ## Introduction
 
