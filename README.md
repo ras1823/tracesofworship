@@ -2,8 +2,7 @@
        title="TRACES OF WORSHIP"
        author="RAS Library"
        banner="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/10.JPG"
-       layout="vertical"
-       height="800px">
+       layout="vertical">
 
 ## Introduction
 
