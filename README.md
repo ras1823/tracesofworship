@@ -17,7 +17,7 @@ Whether undertaken individually or communally, locally or regionally, worship re
 
 ## Sword Worship
 
-In Rajput traditions, the sword is believed to embody divine knowledge and power, and is closely associated with several formidable Hindu deities. This miniature depicts Maharana Bhim Singh, ruler of Mewar (r. 1778–1828), on the centre left performing the rite of sword worship, in which a sword is installed on an altar for veneration. The rite marks the beginning of Navaratri, a festival honouring Durga, the Hindu goddess. 
+In Rajput traditions, the sword is believed to embody divine knowledge and power, and is closely associated with several formidable Hindu deities. This miniature depicts Maharana Bhim Singh, ruler of Mewar (r. 1778–1828), on the centre left performing the rite of sword worship. In this ceremony, a sword is installed on an altar for veneration. The rite marks the beginning of Navaratri, a festival honouring Durga, the Hindu goddess. 
 <br><br>
 In his [_Annals and Antiquities of Rajasthan_](https://yalebooks.co.uk/book/9780300270525/annals-and-antiquities-of-rajasthan/) (1829–32), James Tod (1782–1835) describes the Rajput practice of venerating arms by swearing ‘by the steel’ and prostrating before their swords and other weapons.
 
