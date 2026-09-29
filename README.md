@@ -12,6 +12,9 @@ This online display brings together a selection of artworks, photographs and tex
 <br><br>
 Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
 
+<param ve-image 
+       url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/RAS_interim_rgb_square_signet_260219.jpeg">
+
 ## Sword Worship
 
 In Rajput traditions, the sword is believed to embody divine knowledge and power, and is closely associated with several formidable Hindu deities. This miniature depicts Maharana Bhim Singh, ruler of Mewar (r. 1778–1828), on the centre left performing the rite of sword worship, in which a sword is installed on an altar for veneration. The rite marks the beginning of Navaratri, a festival honouring Durga, the Hindu goddess. 
