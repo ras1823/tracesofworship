@@ -10,7 +10,7 @@ From celestial beings to ancestral spirits, and from natural forces to animals, 
 <br><br>
 This online display brings together a selection of artworks, photographs and textual materials from the collections of the Royal Asiatic Society to explore the idea of worship across Asian cultures. Here, ‘worship’ is used in a broad sense to encompass practices of devotion, veneration, prayer, pilgrimage and ritual observance, while recognising that these categories do not correspond exactly across the traditions represented. Although these materials are now preserved within a research collection rather than a devotional setting, some continue to possess sacred or devotional significance for the communities and traditions from which they come.
 <br><br>
-Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that we are willing and capable to offer.
+Whether undertaken individually or communally, locally or regionally, worship reveals the love, respect or devotion that one is willing and capable to offer.
 
 <param ve-image 
        url="https://raw.githubusercontent.com/ras1823/tracesofworship/refs/heads/main/RAS_interim_rgb_square_signet_260219.jpeg">
