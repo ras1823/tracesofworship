@@ -87,7 +87,7 @@ This lightly coloured woodblock printed map presents a panoramic view of the mou
 
 ## Ancient Worship
 
-Scenes and symbols of worship are among the most common motifs found on Babylonian and Assyrian seals, small carved cylinders or stones serving as a mark or ownership or identification. This plaster cast of an Assyrian seal depicts a worshipper on the leftmost raising his hands before a deity who is standing on top a mythological creature combining a human head, bird’s body and scorpion’s tail. In his article [_Six Babylonian and Assyrian Seals_](https://www.jstor.org/stable/25181985) (JRAS, 1927), Assyriologist Stephen Langdon (1876–1937) discusses two known types of this composite creature and highlights other curious features of the seal’s iconography.
+Scenes and symbols of worship are among the most common motifs found on Babylonian and Assyrian seals, small carved cylinders or stones serving as a mark or ownership or identification. This plaster cast of an Assyrian seal depicts a worshipper on the leftmost raising their hands before a deity who is standing on top a mythological creature combining a human head, bird’s body and scorpion’s tail. In his article [_Six Babylonian and Assyrian Seals_](https://www.jstor.org/stable/25181985) (JRAS, 1927), Assyriologist Stephen Langdon (1876–1937) discusses two known types of this composite creature and highlights other curious features of the seal’s iconography.
 
 <param ve-image 
        label="Plaster casts of an Assyrian seal, early 20th century (RAS JOUR/17/2) <br> © The Royal Asiatic Society of Great Britain and Ireland"
