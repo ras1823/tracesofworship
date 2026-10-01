@@ -69,7 +69,7 @@ Pilgrimage scrolls commemorated journeys to the sacred sites of Islam. This exam
 
 ## A Test of Faith 
 
-Pilgrimage to Lhasa, the home of many important Tibetan Buddhist sites, is regarded as a profound act of worship for Tibetan Buddhists. Along the journey, pilgrims perform full body prostrations, lowering their forehead, torso, hands and knees to the ground to express devotion and humility. This demanding practice tests both the pilgrim’s faith and physical endurance, often taking months or even years to complete. To protect themselves from rough roads and stones, pilgrims often wear protective gear such as aprons and hand pads, as seen in this photograph.
+Pilgrimage to Lhasa, the home of many important Tibetan Buddhist sites, is regarded as a profound act of worship for Tibetan Buddhists. Along the journey, some pilgrims perform full body prostrations, lowering their forehead, torso, hands and knees to the ground to express devotion and humility. This demanding practice tests both the pilgrim’s faith and physical endurance, often taking months or even years to complete. To protect themselves from rough roads and stones, pilgrims often wear protective gear such as aprons and hand pads, as seen in this photograph.
 
 <param ve-image 
        label="Prostrating pilgrim on his way to Lhasa, 1938 (Photo.86/2(068)) <br> © The Royal Asiatic Society of Great Britain and Ireland"
