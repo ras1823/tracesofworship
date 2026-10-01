@@ -95,7 +95,7 @@ Scenes and symbols of worship are among the most common motifs found on Babyloni
        
 ## The Sacred Fire 
 
-In Zoroastrian worship, Atash Kadeh, or fire temple, is a sacred site where a flame is placed upon an altar to symbolise divine light and wisdom. This photograph shows a rock carved fire altar in Tang i Karam, a village in Fars, Iran, documented during a survey conducted by the British-Hungarian archaeologist Sir Marc Aurel Stein (1862–1943) between November 1933 and May 1934. Stein later published his findings on this expedition in the essay [_An Archaeological Tour in the Ancient Persis_](https://www.jstor.org/stable/4241592) (Iraq, Vol. 3, No. 2, 1936).
+In Zoroastrian worship, Atash Kadeh, or fire temple, is a sacred site where a flame is placed upon an altar to symbolise divine light and wisdom. This photograph shows a rock carved fire altar in Tang-i-Karam, a village in Fars, Iran, documented during a survey conducted by the British-Hungarian archaeologist Sir Marc Aurel Stein (1862–1943) between November 1933 and May 1934. Stein later published his findings on this expedition in the essay [_An Archaeological Tour in the Ancient Persis_](https://www.jstor.org/stable/4241592) (Iraq, Vol. 3, No. 2, 1936).
 
 <param ve-image 
        label="Rock-carved fire altar, Atash-kadeh, Tang-i-karam, 1933–34 (Photo.40/5(018)) <br> © The Royal Asiatic Society of Great Britain and Ireland"
